@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Donovan Lampa&#39;s personal site</title>
-    <link>http://donovanlampa.com/</link>
-    <description>Recent content on Donovan Lampa&#39;s personal site</description>
+    <title>Posts on Donovan Lampa&#39;s personal site</title>
+    <link>http://donovanlampa.com/posts/</link>
+    <description>Recent content in Posts on Donovan Lampa&#39;s personal site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Feb 2018 13:52:24 -0600</lastBuildDate>
     
-	<atom:link href="http://donovanlampa.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://donovanlampa.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
